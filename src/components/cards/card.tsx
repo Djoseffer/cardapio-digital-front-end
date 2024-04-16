@@ -11,7 +11,7 @@ return(
 <div className="card">
     <img src={image}/>
     <h2>{title}</h2>
-    <p><b>Valor:</b></p>
+    <p><b>Valor:</b>{price}</p>
 </div>
 )
 }
